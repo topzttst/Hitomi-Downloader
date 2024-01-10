@@ -98,4 +98,4 @@
 | **Yande.re** | <https://yande.re> |
 | **Youku** | <https://youku.com> |
 | **YouTube** | <https://youtube.com> |
-| **and more...** | [Supported sites by yt-dlp](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) |
+| **and more...** | [Supported sites by yt-dlp](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) | 
